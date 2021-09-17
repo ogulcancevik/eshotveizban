@@ -1,7 +1,7 @@
 # Uygulama ne işe yarıyor?
 
 Eshot ve İzban saatlerini duraklarını ve ücret hesaplayabileceğiniz dinamik bir uygulama.
-eğer projeyi canlı halde görmek isterseniz şu linkten inceleyebilirsiniz.
+eğer projeyi canlı halde görmek isterseniz şu linkten inceleyebilirsiniz. https://eshotveizban.vercel.app/
 
 ## Kullandığım Teklonojiler
 
