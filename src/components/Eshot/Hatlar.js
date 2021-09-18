@@ -64,7 +64,7 @@ const Hatlar = ({ Hatid, setHatid }) => {
         </div>
         <div className="flex flex-col">
           {Duraklar.map((item, key) => (
-            <p className="ml-2">
+            <p className="m-2">
               {key + 1}. {item.Adi}
             </p>
           ))}
